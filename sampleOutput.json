@@ -1,0 +1,1006 @@
+{
+  "status": "ok",
+  "totalResults": 11233,
+  "articles": [
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Emma Roth",
+      "title": "Mt. Gox: all the news on Bitcoin’s original biggest bankruptcy scandal",
+      "description": "One of the strangest stories in crypto still isn’t over. Mt. Gox went bankrupt in 2014 after losing track of more than 650,000 Bitcoins through theft or mismanagement and its CEO was arrested. But the story didn’t end there.",
+      "url": "https://www.theverge.com/2014/3/21/5533272/mt-gox-missing-bitcoins",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cT46bayUXzTSLryuplguioQYo78=/0x0:560x372/1200x628/filters:focal(280x186:281x187)/cdn.vox-cdn.com/uploads/chorus_asset/file/10987061/mt-gox-hq.0.0.jpg",
+      "publishedAt": "2023-06-09T17:28:51Z",
+      "content": "Filed under:\r\nByJacob Kastrenakes, a deputy editor who oversees tech and news coverage. Since joining The Verge in 2012, hes published 5,000+ stories and is the founding editor of the creators desk. … [+17914 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Will Shanklin",
+      "title": "DOJ charges Russian nationals with laundering bitcoin in 2011 Mt. Gox hack",
+      "description": "The US Department of Justice announced today that it charged two Russian nationals for crimes related to the 2011 hacking of Mt. Gox, the now-defunct crypto exchange that was one of the world’s largest at the time. Alexey Bilyuchenko and Aleksandr Verner are …",
+      "url": "https://www.engadget.com/doj-charges-russian-nationals-with-laundering-bitcoin-in-2011-mt-gox-hack-184052373.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/7bRYHMiKYEn9M7nv8_ZwoQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6946e120-06ee-11ee-bb69-ade65ccf4c1c.cf.jpg",
+      "publishedAt": "2023-06-09T18:40:52Z",
+      "content": "The US Department of Justice announced today that it charged two Russian nationals for crimes related to the 2011 hacking of Mt. Gox, the now-defunct crypto exchange that was one of the worlds larges… [+2217 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Jessica Maddox",
+      "title": "The Hidden Dangers of the Decentralized Web",
+      "description": "From social networks to crypto, independently run servers are being touted as a solution to the internet’s problems. But they’re far from a magic bullet.",
+      "url": "https://www.wired.com/story/the-hidden-dangers-of-the-decentralized-web/",
+      "urlToImage": "https://media.wired.com/photos/6466a28c9ec11a2433532a66/191:100/w_1280,c_limit/Cons_Social.jpg",
+      "publishedAt": "2023-05-19T12:00:00Z",
+      "content": "When Elon Musk took over Twitter last year, many users migrated to the free and open-source platform Mastodon. Mastodon, like other decentralized social media, isnt owned by one of the major players … [+4331 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kevin Hurler",
+      "title": "Binance Halts Trading of American Dollars on Its U.S. Exchange",
+      "description": "Cryptocurrency exchange Binance’s U.S. arm has indefinitely paused deposits and withdrawals of American dollar deposits and withdrawals. The company announced it would be freezing these assets after the U.S. Securities and Exchange Commission filed a lawsuit …",
+      "url": "https://gizmodo.com/binance-crypto-sec-bitcoin-binance-us-1850522422",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ad1425144dd44b6f30a7f559bc37a9f4.jpg",
+      "publishedAt": "2023-06-09T14:07:00Z",
+      "content": "Cryptocurrency exchange Binances U.S. arm has indefinitely paused deposits and withdrawals of American dollar deposits and withdrawals. The company announced it would be freezing these assets after t… [+2056 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Bitcoin surges 5.56% to $27171 - Reuters",
+      "description": "Bitcoin surges 5.56% to $27171  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYml0Y29pbi1zdXJnZXMtNTU2LTI3MTcxLTIwMjMtMDYtMDYv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-06T20:13:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Cryptoverse: Listless bitcoin seeks summer spark - Reuters",
+      "description": "Cryptoverse: Listless bitcoin seeks summer spark  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvY3J5cHRvdmVyc2UtbGlzdGxlc3MtYml0Y29pbi1zZWVrcy1zdW1tZXItc3BhcmstMjAyMy0wNi0wNi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-06T05:17:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Nikki Main",
+      "title": "Hacker Pleads Guilty to Hijacking Barack, Elon, and Kim K's Twitter Accounts",
+      "description": "A man accused of hacking Twitter accounts in a Bitcoin scheme pleaded guilty on Tuesday for his role in cyber stalking and computer hacking that exploited numerous high-profile social media accounts. Joseph James O’Connor, 23, was extradited to the U.S. from …",
+      "url": "https://gizmodo.com/hacker-twitter-joseph-james-o-connor-bitcoin-crypto-1850423510",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a51f52cfe2f928955dd8893a8efe3bbb.jpg",
+      "publishedAt": "2023-05-10T15:51:00Z",
+      "content": "A man accused of hacking Twitter accounts in a Bitcoin scheme pleaded guilty on Tuesday for his role in cyber stalking and computer hacking that exploited numerous high-profile social media accounts.… [+3186 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Bitcoin steadies above $25000 as Binance SEC lawsuit rattles ... - Reuters",
+      "description": "Bitcoin steadies above $25000 as Binance SEC lawsuit rattles ...  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYml0Y29pbi1zdGVhZGllcy1hYm92ZS0yNTAwMC1iaW5hbmNlLXNlYy1sYXdzdWl0LXJhdHRsZXMtaW52ZXN0b3JzLTIwMjMtMDYtMDYv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-06T05:28:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Binance Australia customers seen selling bitcoin at a discount - Reuters",
+      "description": "Binance Australia customers seen selling bitcoin at a discount  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYmluYW5jZS1hdXN0cmFsaWEtY3VzdG9tZXJzLXNlZW4tc2VsbGluZy1iaXRjb2luLWRpc2NvdW50LXJpdmFsLWV4Y2hhbmdlcy0yMDIzLTA1LTMwL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-30T09:25:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Cryptoverse: Busy bitcoin births new breed of crypto - Reuters",
+      "description": "Cryptoverse: Busy bitcoin births new breed of crypto  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvY3J5cHRvdmVyc2UtYnVzeS1iaXRjb2luLWJpcnRocy1uZXctYnJlZWQtY3J5cHRvLTIwMjMtMDUtMjMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-23T05:12:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "El Salvador partnership to build $1 billion bitcoin mining farm - Reuters",
+      "description": "El Salvador partnership to build $1 billion bitcoin mining farm  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZWwtc2FsdmFkb3ItcGFydG5lcnNoaXAtYnVpbGQtMS1iaWxsaW9uLWJpdGNvaW4tbWluaW5nLWZhcm0tMjAyMy0wNi0wNS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-05T18:07:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kyle Barr",
+      "title": "Failed Terra Founder Do Kwon, Who Avoided Police for Months, Gets Bail",
+      "description": "Former Terraform Labs CEO Do Kwon, alongside his compatriot and former chief financial officer Han Chong-joon have been on the run from international police for months. They were arrested in Montenegro for allegedly holding two fake passports. None of that wa…",
+      "url": "https://gizmodo.com/terra-luna-do-kwon-crypto-bitcoin-stablecoin-1850431578",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/462c69a5bb4faf493bbdeed0af3fdb8d.jpg",
+      "publishedAt": "2023-05-12T13:33:59Z",
+      "content": "Former Terraform Labs CEO Do Kwon, alongside his compatriot and former chief financial officer Han Chong-joon have been on the run from international police for months. They were arrested in Monteneg… [+2345 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "jma@insider.com (Jason Ma)",
+      "title": "Bitcoin gets vote of confidence as a long-term store of value as Tether says it will buy more of the crypto to back its stablecoin",
+      "description": "Tether said that starting this month it will regularly allocate up to 15% of its net realized operating profits toward buying bitcoin.",
+      "url": "https://markets.businessinsider.com/news/currencies/bitcoin-long-term-value-tether-btc-purchases-usdt-stablecoin-reserves-2023-5",
+      "urlToImage": "https://i.insider.com/646507e00d92400018e6d690?width=1200&format=jpeg",
+      "publishedAt": "2023-05-17T17:12:42Z",
+      "content": "Bitcoin got a vote of confidence as a long-term store of value after Tether said Wednesday it will buy more of the crypto to back its stablecoin.\r\nThe issuer of USDT said it will allocate up to 15% o… [+1324 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Lily Hay Newman, Andy Greenberg",
+      "title": "9 Years After the Mt. Gox Hack, Feds Indict Alleged Culprits",
+      "description": "Plus: Instagram’s CSAM network gets exposed, Clop hackers claim credit for MOVEit Transfer exploit, and a $35 million crypto heist has North Korean ties.",
+      "url": "https://www.wired.com/story/mt-gox-indictment-security-roundup/",
+      "urlToImage": "https://media.wired.com/photos/64838ea49a01d944fee35efc/191:100/w_1280,c_limit/9-Years-After-the-Mt.-Gox-Hack,-Feds-Indict-Alleged-Culprits-Security-GettyImages-1197093074.jpg",
+      "publishedAt": "2023-06-10T13:00:00Z",
+      "content": "Apple's Worldwide Developer's Conference this week included an array of announcements about operating system releases and, of course, the company's anticipated mixed-reality headset, Vision Pro. Appl… [+6306 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Morgan Chittum",
+      "title": "Bitcoin is on track for its first monthly drop of the year, stalling 2023's huge rally as macro uncertainty builds",
+      "description": "Bitcoin has slipped in May, but is still up big in 2023. Market experts say the rally has taken a breather as traders assess the macro picture.",
+      "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-crypto-market-outlook-ethereum-solana-inflation-recession-risks-2023-5",
+      "urlToImage": "https://i.insider.com/64773e96df2567001837d157?width=1200&format=jpeg",
+      "publishedAt": "2023-05-31T15:39:01Z",
+      "content": "Bitcoin is still up largely since the start of 2023, however, surging 65% year-to-date.Umit Turhan Coskun/Getty Images\r\n<ul>\n<li>Bitcoin is down about 4% in May, heading for its first monthly loss of… [+3758 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ReadWrite" },
+      "author": "Deanna Ritchie",
+      "title": "Altcoins: Exploring the Best Cryptocurrencies Beyond BTC",
+      "description": "The world of cryptocurrencies goes beyond Bitcoin (BTC), with a plethora of alternatives offering unique features, use cases, and potential for growth. If you’re looking to diversify your crypto portfolio or explore beyond Bitcoin, this article provides an in…",
+      "url": "https://readwrite.com/bitcoin-alternatives-exploring-the-best-altcoin-cryptocurrencies-beyond-btc/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2023/05/pexels-rdne-stock-project-8370757.jpg",
+      "publishedAt": "2023-05-28T21:00:56Z",
+      "content": "The world of cryptocurrencies goes beyond Bitcoin (BTC), with a plethora of alternatives offering unique features, use cases, and potential for growth. If you’re looking to diversify your crypto port… [+7977 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Zinya Salfiti",
+      "title": "Bitcoin is a bubble with 'no inherent value and is terribly overpriced,' top economist Steve Hanke says",
+      "description": "\"Bitcoin is a bubble. It has no inherent value and is terribly overpriced,\" the top economist tweeted.",
+      "url": "https://markets.businessinsider.com/news/currencies/steve-hanke-bitcoin-bubble-overpriced-worthless-value-rally-cryptocurrency-crypto-2023-5",
+      "urlToImage": "https://i.insider.com/646211685cd814001883cf58?width=1200&format=jpeg",
+      "publishedAt": "2023-05-15T14:52:27Z",
+      "content": "BitcoinYuichiro Chino/Getty Images\r\n<ul>\n<li>Top economist Steve Hanke reiterated that the world's most popular cryptocurrency is essentially worthless. </li>\n<li>He was reacting to bitcoin falling t… [+1936 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Asia Martin",
+      "title": "'AI' is trending in Google searches — but it's not yet to the peak reached by Bitcoin in 2017",
+      "description": "Interest in AI is at an all-time high on Google searches, an Alliance Bernstein analyst notes. But it's still not as popular as Bitcoin at its height.",
+      "url": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5",
+      "urlToImage": "https://i.insider.com/6477bb1b085acb0018ff14ed?width=1200&format=jpeg",
+      "publishedAt": "2023-06-01T21:00:21Z",
+      "content": "Google searches for \"AI\" haven't matched the peak seen for \"Bitcoin\" at the height of its search popularity.Beata Zawrzel/NurPhoto via Getty Images\r\n<ul>\n<li>\"AI\" is trending in Google searches, but … [+2013 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Zinya Salfiti",
+      "title": "'Rich Dad Poor Dad' author Robert Kiyosaki warns the economy is headed for 'crash landing' - says investors should buy bitcoin, gold",
+      "description": "Robert Kiyosaki warned the US economy is heading for a severe downturn, saying investors should buy bitcoin, gold and silver.",
+      "url": "https://markets.businessinsider.com/news/currencies/rich-dad-poor-dad-author-robert-kiyosaki-crash-bitcoin-gold-2023-5",
+      "urlToImage": "https://i.insider.com/646731d1cd3a9c0019184af1?width=1200&format=jpeg",
+      "publishedAt": "2023-05-19T09:54:10Z",
+      "content": "Robert Kiyosaki.Courtesy of Robert Kiyosaki\r\n<ul>\n<li>Robert Kiyosaki warned that the US economy is heading for a severe downturn.</li>\n<li>The \"Rich Dad Poor Dad\" author touted bitcoin, silver and g… [+1835 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Morgan Chittum",
+      "title": "Bitcoin is on a tear in 2023. Here's where 4 crypto pros see the coin headed by the end of the year.",
+      "description": "One crypto startup exec told Insider that bitcoin can't hit a record high until US inflation is finally under control.",
+      "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-prediction-crypto-market-outlook-halving-blockchain-inflation-cryptocurrency-2023-5",
+      "urlToImage": "https://i.insider.com/6470ff66085acb0018feb4fa?width=1200&format=jpeg",
+      "publishedAt": "2023-05-28T12:30:07Z",
+      "content": "One exec told Insider that bitcoin can't hit a record high until US inflation is under control.Yuichiro Chino/Getty Images\r\n<ul>\n<li>Bitcoin has jumped over 60% year-to-date, paring losses from a bru… [+4067 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Zahra Tayeb",
+      "title": "Bitcoin is a cult, offers no refuge, and doesn't help even 'the bad guys', 'Black Swan' author Nassim Taleb says",
+      "description": "\"I actually have been a critic of bitcoin for reasons like - my principal reason - well, guess what, it's not even good for money laundering,\" Taleb said.",
+      "url": "https://markets.businessinsider.com/news/currencies/black-swan-author-nassim-taleb-bitcoin-cult-cryptocurrencies-2023-6",
+      "urlToImage": "https://i.insider.com/6482dd51323ab800198541c4?width=1200&format=jpeg",
+      "publishedAt": "2023-06-09T09:02:18Z",
+      "content": "Nassim Taleb.Valery Sharifulin\\TASS via Getty Images\r\n<ul>\n<li>\"Black Swan\" author Nassim Taleb doubled down on his criticism of cryptocurrencies. </li>\n<li>\"It's not even good for money laundering,\"… [+1832 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Theron Mohamed",
+      "title": "Nobel economist Paul Krugman slams crypto as mostly useless, after saying it's hugely overpriced and helps criminals",
+      "description": "Paul Krugman said bitcoin and other tokens serve little purpose, warned of a \"crypto bubble,\" and noted the industry has a dark side.",
+      "url": "https://markets.businessinsider.com/news/currencies/paul-krugman-crypto-bitcoin-price-bubble-crime-cbdc-desantis-banks-2023-5",
+      "urlToImage": "https://i.insider.com/640f05c9340fa00018fdae3c?width=1200&format=jpeg",
+      "publishedAt": "2023-05-30T14:53:52Z",
+      "content": "Paul Krugman.REUTERS/Brendan McDermid\r\n<ul>\n<li>Paul Krugman says crypto is mostly useless, overvalued, and appeals to bank skeptics and criminals.</li>\n<li>The Nobel Prize-winning economist flagged … [+2018 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Morgan Chittum",
+      "title": "Bitcoin has bottomed and the world's biggest cryptocurrency is on a new bull run, MicroStrategy's Michael Saylor says",
+      "description": "\"I think bitcoin's found the bottom. I think the leverage is out of it,\" MicroStrategy cofounder Michael Saylor said.",
+      "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-crypto-bull-market-outlook-microstrategy-michael-saylor-ethereum-2023-5",
+      "urlToImage": "https://i.insider.com/631133643fe7c40019e4f2fd?width=1200&format=jpeg",
+      "publishedAt": "2023-05-22T16:19:20Z",
+      "content": "MicroStrategy's Michael Saylor says bitcoin's price has bottomed.Marco Bello/Getty Images\r\n<ul>\n<li>MicroStrategy's Michael Saylor says bitcoin's price has bottomed.</li>\n<li>Crypto regulation will s… [+2765 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hipertextual" },
+      "author": "Luis Miranda",
+      "title": "Totalplay ya acepta Bitcoin como forma de pago",
+      "description": "Totalplay añadió el Bitcoin como una forma de pago para sus paquetes de cable, telefonía e internet. Grupo Salinas firmó un acuerdo con IBEX Mercado, un proveedor de servicios de pago de Bitcoin Lightning, el cual beneficiará a más cuatro millones de mexicano…",
+      "url": "http://hipertextual.com/2023/05/totalplay-bitcoin-forma-de-pago",
+      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/05/bitcoin-pago-totalplay.jpg?fit=2000%2C1250&quality=50&strip=all&ssl=1",
+      "publishedAt": "2023-05-19T19:20:00Z",
+      "content": "Totalplay añadió el Bitcoin como una forma de pago para sus paquetes de cable, telefonía e internet. Grupo Salinas firmó un acuerdo con IBEX Mercado, un proveedor de servicios de pago de Bitcoin Ligh… [+2591 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Cathie Wood on Binance, Coinbase Legal Woes - Bloomberg Television",
+      "description": "<ol><li>Cathie Wood on Binance, Coinbase Legal Woes  Bloomberg Television\r\n</li><li>Bitcoin Sinks As Crypto Companies Grapple With SEC Lawsuits  OilPrice.com\r\n</li><li>US regulator asks court to freeze crypto giant Binance’s assets  Al Jazeera English\r\n</li><…",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC3RmdUF1MGZHYUlJmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-08T01:24:59Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Jennifer Sor",
+      "title": "The US is losing the bitcoin movement because of regulation, Cathie Wood says",
+      "description": "\"It would be nice if the US were leading this movement, but we're losing it because of our regulatory system.\"",
+      "url": "https://markets.businessinsider.com/news/currencies/bitcoin-btc-price-us-regulation-sec-cathie-wood-ark-coinbase-2023-5",
+      "urlToImage": "https://i.insider.com/639c6bd0b7e0f20018095236?width=1200&format=jpeg",
+      "publishedAt": "2023-05-25T15:21:55Z",
+      "content": "ARK Invest founder Cathie Wood.Photo by PATRICK T. FALLON/AFP via Getty Images\r\n<ul>\n<li>The US is losing out on the bitcoin movement, according to Ark Invest's Cathie Wood.</li>\n<li>The vocal bull o… [+2206 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Lily Hay Newman",
+      "title": "Netflix’s Password-Sharing Crackdown Has Hit the US",
+      "description": "TikTok user data is exposed to Chinese ByteDance employees, a screen recording app goes rogue in Google Play, and privacy groups want Slack to expand encryption.",
+      "url": "https://www.wired.com/story/netflix-password-sharing/",
+      "urlToImage": "https://media.wired.com/photos/6470f77482d37ced55dff512/191:100/w_1280,c_limit/Security-News-This-Week--Netflix%E2%80%99s-Password-Sharing-Crackdown-Has-Hit-the-US-Security-GettyImages-1262044708.jpg",
+      "publishedAt": "2023-05-27T13:00:00Z",
+      "content": "Officials in Spain want to ban end-to-end encryption in the European Union, according to a leaked government document obtained by WIRED. The stance emerged as part of a survey of EU member states rel… [+3440 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Joel Khalili, Amanda Hoover",
+      "title": "Coinbase and Binance Lawsuits Put Crypto on Ice",
+      "description": "The SEC has launched two lawsuits in 24 hours, putting a huge question mark over the future of retail crypto trading in the US.",
+      "url": "https://www.wired.com/story/coinbase-binance-lawsuits-put-crypto-on-ice/",
+      "urlToImage": "https://media.wired.com/photos/647f3bbe0227ed23db804279/191:100/w_1280,c_limit/coinbase_biz_GettyImages-1232307309.jpg",
+      "publishedAt": "2023-06-06T20:41:30Z",
+      "content": "For the second time in 24 hours, the US Securities and Exchange Commission has sued a major cryptocurrency exchange. Yesterday, the regulator filed charges against Binance and its CEO, Changpeng Zhao… [+2946 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Nabeel S. Qureshi",
+      "title": "Waluigi, Carl Jung, and the Case for Moral AI",
+      "description": "Nintendo's Luigi has a chaos-causing alter ego. AI's shadow could put humanity at risk—but can be contained.",
+      "url": "https://www.wired.com/story/waluigi-effect-generative-artificial-intelligence-morality/",
+      "urlToImage": "https://media.wired.com/photos/646e9bd40124a91cee27d937/191:100/w_1280,c_limit/Wa_5.jpg",
+      "publishedAt": "2023-05-25T10:00:00Z",
+      "content": "In the early 20th century, the psychoanalyst Carl Jung came up with the concept of the shadowthe human personalitys darker, repressed side, which can burst out in unexpected ways. Surprisingly, this … [+3734 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Morgan Chittum",
+      "title": "Galaxy Digital CEO Mike Novogratz says the 'dog days of summer' came early for crypto as bitcoin posts worst month since November",
+      "description": "\"The dog days of summer started early in crypto,\" Galaxy Digital's Mike Novogratz said. \"That doesn't make me thrilled.\"",
+      "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-crypto-market-outlook-mike-novogratz-galaxy-digital-2023-6",
+      "urlToImage": "https://i.insider.com/5f92fdd5abcd0c0018d695d1?width=1200&format=jpeg",
+      "publishedAt": "2023-06-01T16:49:39Z",
+      "content": "Mike Novogratz.Lucas Jackson/Reuters\r\n<ul>\n<li>The crypto market rally seems to be stalling as bitcoin notched its first monthly loss since November.</li>\n<li>Galaxy Digital CEO Mike Novogratz explai… [+1510 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Morgan Chittum",
+      "title": "US stocks jump as markets brace for May jobs report and debt ceiling bill nears finish line",
+      "description": "The May employment report will be released on Friday, one of the last big pieces of economic data before the Fed's next policy meeting.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-may-jobs-report-debt-ceiling-bill-2023-6",
+      "urlToImage": "https://i.insider.com/5bbf4f2e92b36954b66f60a3?width=1200&format=jpeg",
+      "publishedAt": "2023-06-01T20:05:06Z",
+      "content": "Traders and financial professionals work ahead of the closing bell on the floor of the New York Stock Exchange (NYSE), June 15, 2018 in New York City.Drew Angerer/Getty\r\n<ul>\n<li>US stocks rose Thurs… [+2688 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "LeAnn Wallace",
+      "title": "Binance Charged With Running Illegal Crypto Exchange in New SEC Complaint",
+      "description": "Binance was hit with a new lawsuit from the U.S Securities and Exchange Commission Monday. The federal regulator unleashed 13 charges against the world’s largest crypto exchange and its founder Changpeng Zhao Monday, alleging violations of U.S. securities law…",
+      "url": "https://gizmodo.com/binance-sued-sec-illegal-crypto-exchange-1850506894",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/aad4d38cc46d1f50be37e50f20c97a4d.jpg",
+      "publishedAt": "2023-06-05T18:53:00Z",
+      "content": "Binance was hit with a new lawsuit from the U.S Securities and Exchange Commission Monday. The federal regulator unleashed 13 charges against the worlds largest crypto exchange and its founder Changp… [+2466 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hackaday" },
+      "author": "Tom Nardi",
+      "title": "Home Heating With Bitcoin Miners is Now a Real Thing",
+      "description": "If you were reading this post a month ago, you could have been forgiven for thinking it was an April Fools post. But we assure you, this is no joke. A company called HeatBit has recently opened pre…",
+      "url": "https://hackaday.com/2023/05/13/home-heating-with-bitcoin-miners-is-now-a-real-thing/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2023/05/heatbit_feat.jpg",
+      "publishedAt": "2023-05-13T20:00:39Z",
+      "content": "If you were reading this post a month ago, you could have been forgiven for thinking it was an April Fools post. But we assure you, this is no joke. A company called HeatBit has recently opened preor… [+3025 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ReadWrite" },
+      "author": "Deanna Ritchie",
+      "title": "How to Avoid Bankruptcy in Crypto",
+      "description": "You can win or lose whenever you place a bet at a crypto casino. Most players tend to go bankrupt when they fail to practice responsible gaming. It’s no shocker that many players often wager more when they lose because they feel they will likely win the next …",
+      "url": "https://readwrite.com/how-to-avoid-bankruptcy-in-crypto/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2023/05/bankruptcy-in-crypto.jpg",
+      "publishedAt": "2023-05-30T20:00:40Z",
+      "content": "You can win or lose whenever you place a bet at a crypto casino. Most players tend to go bankrupt when they fail to practice responsible gaming. Its no shocker that many players often wager more when… [+5889 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Dan Milmo Global technology editor",
+      "title": "Crypto ads will need to carry risk warnings under new UK rules",
+      "description": "From October, firms will also have to offer new buyers a ‘cooling off’ period before they investCrypto firms must warn customers they should not expect protection if their investment goes wrong and introduce a “cooling off” period for first-time investors, un…",
+      "url": "https://www.theguardian.com/technology/2023/jun/08/crypto-ads-risk-warnings-fca-uk-rules-october",
+      "urlToImage": "https://i.guim.co.uk/img/media/a963198ff7a231277e217dcf03e11eebaa4dec39/120_104_1421_852/master/1421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04fc7c673ffafaef8cca5b23e22db100",
+      "publishedAt": "2023-06-08T05:00:02Z",
+      "content": "Crypto firms must warn customers they should not expect protection if their investment goes wrong and introduce a cooling off period for first-time investors, under new rules imposed by the UK financ… [+2422 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Turkey election: Kremlin rejects accusations of interference",
+      "description": "Opposition candidate Kemal Kilicdaroglu said Russia was behind \"montages and deep fake content\".",
+      "url": "https://www.bbc.co.uk/news/world-europe-65574312",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12071/production/_129714837_f65bd39a0593a238873aa5ccd9e05130ab0f5b290_0_5500_36671000x667.jpg",
+      "publishedAt": "2023-05-12T16:20:23Z",
+      "content": "The Kremlin has denied interfering in Turkey's elections after the opposition candidate, Kemal Kilicdaroglu, accused Russia of \"meddling\".\r\nSpokesman Dmitry Peskov said Russians did not interfere in … [+2330 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ReadWrite" },
+      "author": "Alex Vakulov",
+      "title": "A Guide to Identifying and Avoiding Top Crypto Scams",
+      "description": "The surge in popularity of Bitcoin and other cryptocurrencies has a dark underbelly. It is spurring the growth of a vast cybercrime industry rife with numerous scams. Cunning wrongdoers are preying on unsuspecting Internet users, hoping to trick them into los…",
+      "url": "https://readwrite.com/a-guide-to-identifying-and-avoiding-top-crypto-scams/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2023/05/pexels-rdne-stock-project-8369654.jpg",
+      "publishedAt": "2023-06-04T15:00:46Z",
+      "content": "The surge in popularity of Bitcoin and other cryptocurrencies has a dark underbelly. It is spurring the growth of a vast cybercrime industry rife with numerous scams. Cunning wrongdoers are preying o… [+12751 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kyle Barr",
+      "title": "FTX’s Dr. Frankenstein Tries to Revive Dead Crypto Exchange",
+      "description": "Other than Terra, FTX is perhaps the biggest synonym for failure in the crypto industry. It’s a three-letter word dragged so far through the mud that it’s hard to distinguish it from a cow patty. Yet enough people working at the exchange think people would be…",
+      "url": "https://gizmodo.com/ftx-sam-bankman-fried-crypto-1850467212",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/000a22167a4653aa27d08be49a865b56.jpg",
+      "publishedAt": "2023-05-23T21:16:31Z",
+      "content": "Other than Terra, FTX is perhaps the biggest synonym for failure in the crypto industry. Its a three-letter word dragged so far through the mud that its hard to distinguish it from a cow patty. Yet e… [+2955 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Aaron McDade",
+      "title": "Secret crypto holdings are becoming an increasingly common conflict in divorces, attorneys say",
+      "description": "As crypto has become more popular, hidden investments also have caused more problems for divorce attorneys working to divide assets.",
+      "url": "https://www.businessinsider.com/crypto-divorce-fights-financial-infidelity-hidden-investments-attorneys-say-2023-5",
+      "urlToImage": "https://i.insider.com/646910d563c86a0018cd07ba?width=1200&format=jpeg",
+      "publishedAt": "2023-05-20T19:16:47Z",
+      "content": "Crypto, and especially hidden crypto investments, have become an increasing conflict in divorces.Wenjin Chen/Getty Images\r\n<ul>\n<li>Cryptocurrency is complicating an increasing amount of divorces, a … [+2418 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Jennifer Sor",
+      "title": "US stocks trade mixed as markets await debt ceiling talks between Biden and lawmakers",
+      "description": "President Biden will resume debt ceiling talks with House Speaker Kevin McCarthy and other congressional leaders at 5:30pm ET on Monday.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-debt-ceiling-talks-biden-mccarthy-default-2023-5",
+      "urlToImage": "https://i.insider.com/646bc3332e229f0018268d83?width=1200&format=jpeg",
+      "publishedAt": "2023-05-22T20:06:12Z",
+      "content": "House Speaker Kevin McCarthy.Anna Moneymaker/Getty Images\r\n<ul>\n<li>US stocks traded mixed on Monday ahead of debt ceiling talks with President Biden and lawmakers.</li>\n<li>The US has less than a mo… [+2384 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Max Zahn",
+      "title": "Bitcoin has climbed 65% this year despite crypto woes. Experts explain why.",
+      "description": "The digital currency benefited from a shift to well-known coins, experts said.",
+      "url": "https://abcnews.go.com/Business/bitcoin-climbed-65-year-despite-crypto-woes-experts/story?id=99252922",
+      "urlToImage": "https://s.abcnews.com/images/Business/bitcoin-1-rt-er-230511_1683820816546_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-05-12T09:16:52Z",
+      "content": "The cryptocurrency industry, in recent months, has suffered some blows: high-profile bankruptcies, the arrest of wunderkind Sam Bankman-Fried and a regulator lawsuit against top crypto exchange Binan… [+4192 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Shufflingbytes.com" },
+      "author": null,
+      "title": "Ripping Off Professional Criminals by Fermenting Onions",
+      "description": "Writeup of a tool for creating bitcoin stealing phishing clones of onion services on large scale",
+      "url": "https://shufflingbytes.com/posts/ripping-off-professional-criminals-by-fermenting-onions-phishing-darknet-users-for-bitcoins/",
+      "urlToImage": null,
+      "publishedAt": "2023-06-06T13:34:31Z",
+      "content": "DALL-E’s take on “A scary person holding rotten onion”\r\nIn 2018, I read about the perfect crime of stealing the money of credit card fraudsters by making fake carding sites.\r\nAt the time, this felt g… [+11332 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ReadWrite" },
+      "author": "Micheal Chukwube",
+      "title": "Crypto Investing 101: Tips and Strategies for Maximizing Your Returns",
+      "description": "Venturing into the dynamic realm of Cryptocurrency Investing? Cryptocurrencies like Bitcoin have surfaced as a lucrative yet perilous asset class over the decade, offering immense potential returns. But, without the right expertise and tactics, crypto investm…",
+      "url": "https://readwrite.com/crypto-investing-101-tips-and-strategies-for-maximizing-your-returns/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2023/05/Crypto-Investing-101.jpg",
+      "publishedAt": "2023-05-31T18:00:44Z",
+      "content": "Venturing into the dynamic realm of Cryptocurrency Investing? Cryptocurrencies like Bitcoin have surfaced as a lucrative yet perilous asset class over the decade, offering immense potential returns. … [+8900 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Thomas Macaulay",
+      "title": "Crypto has ‘no intrinsic value’ and ‘no useful social purpose,’ say lawmakers",
+      "description": "The crackdown on cryptocurrency escalated today after lawmakers called for consumer trading to be regulated like gambling. In a new report by a cross-party committee, British politicians claimed the likes of Bitcoin and Ether have “no intrinsic value” and ser…",
+      "url": "https://thenextweb.com/news/crypto-no-intrinsic-value-or-useful-social-purposeshould-be-regulated-as-gambling",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-2-9.jpg&signature=05fb070e8cfc3fcc454a08f2ff270436",
+      "publishedAt": "2023-05-17T10:58:36Z",
+      "content": "The crackdown on cryptocurrency escalated today after lawmakers called for consumer trading to be regulated like gambling.\r\nIn a new report by a cross-party committee, British politicians claimed the… [+3380 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Luke Taylor in Bogotá",
+      "title": "How two Colombians were ensnared in Bukele’s gang crackdown in El Salvador",
+      "description": "Hoping to find work and prosperity in tech-friendly ‘paradise’, the two men instead found ‘hell’ after being arrested and locked up in squalid prisons for three monthsJose Antonio Potes and his childhood friend Manuel Castrillón travelled to El Salvador hopin…",
+      "url": "https://www.theguardian.com/world/2023/may/16/how-two-colombians-were-ensnared-in-bukeles-gang-crackdown-in-el-salvador",
+      "urlToImage": "https://i.guim.co.uk/img/media/a87af6fbff20556700e82ed0c1f9ee9cbbfe982e/0_224_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10785965cd7e3426416f1e47dd68743c",
+      "publishedAt": "2023-05-16T09:00:05Z",
+      "content": "Jose Antonio Potes and his childhood friend Manuel Castrillón travelled to El Salvador hoping to find the safe, prosperous, tech-friendly paradise that they had heard about in Colombian media.\r\nPresi… [+6460 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slashdot.org" },
+      "author": "BeauHD",
+      "title": "OpenAI's Sam Altman Set To Raise $100 Million For Worldcoin",
+      "description": "According to the Financial Times, OpenAI CEO Sam Altman is close to raising around $100 million in funding for his Worldcoin cyrpto project. Markets Insider reports: Worldcoin is in advanced talks to raise the cash from both new and existing investors ahead o…",
+      "url": "https://slashdot.org/story/23/05/15/2215220/openais-sam-altman-set-to-raise-100-million-for-worldcoin",
+      "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+      "publishedAt": "2023-05-16T00:45:00Z",
+      "content": "Worldcoin is in advanced talks to raise the cash from both new and existing investors ahead of a potential launch within the next few weeks, the Financial Times said Sunday, citing three people with … [+895 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "George Glover",
+      "title": "What is Pepecoin? Everything you need to know about the meme token that notched a $1.6 billion market cap then crashed 70% within days",
+      "description": "Like Dogecoin and Shiba Inu, the frog-based cryptocurrency is a meme token that has no use case and trades at a fraction of a cent.",
+      "url": "https://markets.businessinsider.com/news/currencies/what-is-pepecoin-pepe-memecoins-dogecoin-shiba-inu-crypto-news-2023-5",
+      "urlToImage": "https://i.insider.com/6462178e11971c00188f48b1?width=1200&format=jpeg",
+      "publishedAt": "2023-05-15T14:08:28Z",
+      "content": "Pro-democracy protesters wearing \"Pepe the Frog\" masks during a march in Hong Kong.AP Photo/Kin Cheung, File\r\n<ul>\n<li>Pepecoin surged to over $1 billion in market value this month, but its price has… [+3537 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Matthew Fox",
+      "title": "US stocks dip after renewed banking concerns and rise in jobless claims",
+      "description": "So far 90% of S&P 500 companies have reported first-quarter earnings, with 77% beating profit estimates by a median of 8%.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-us-weekly-unemployment-jobless-claims-jump-2023-5",
+      "urlToImage": "https://i.insider.com/6357e18dfc29ff001a5f46dc?width=1200&format=jpeg",
+      "publishedAt": "2023-05-11T13:38:34Z",
+      "content": "Traders work the floor of the New York Stock Exchange during morning trading on May 05, 2022 in New York City.Michael M. Santiago/Getty\r\n<ul><li>US stocks fell on Thursday after weekly jobless claims… [+2712 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Matthew Fox",
+      "title": "US stocks trade mostly lower as fresh economic data spurs new recession fears",
+      "description": "\"Recessions are like this odorless gas. They catch up on you,\" top economist David Rosenberg warned investors on Thursday.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-jobless-claims-spike-reignites-recession-fears-2023-5",
+      "urlToImage": "https://i.insider.com/61e706f67c6a200018426a8c?width=1200&format=jpeg",
+      "publishedAt": "2023-05-11T20:08:35Z",
+      "content": "Photo by Spencer Platt/Getty Images\r\n<ul><li>US stocks were mostly lower on Thursday after weekly jobless claims jumped to the highest level since October 2021.</li><li>Initial jobless claims surged … [+2751 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Carla Mozée",
+      "title": "US stocks climb as Wall Street hopes debt ceiling deal is in sight",
+      "description": "\"The Bulls are back in the driver's seat on the heels of investor optimism over a likely debt ceiling resolution,\" said one investment executive.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-dow-debt-ceiling-limit-biden-nasdaq-sp500-2023-5",
+      "urlToImage": "https://i.insider.com/64676d4dcd3a9c001918519b?width=1200&format=jpeg",
+      "publishedAt": "2023-05-19T13:36:37Z",
+      "content": "Traders work on the floor of the New York Stock Exchange.Michael M. Santiago/Getty Images\r\n <ul>\n<li>US stocks advanced Friday as investors see the potential for a deal that raises the $31 trillion d… [+2645 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Enrique Pérez",
+      "title": "Ledger era la gran referencia para guardar Bitcoin. Ha decepcionado a todos con un cambio repentino",
+      "description": "Ledger ha perdido la confianza de los usuarios. La empresa dedicada a monederos fríos ha decidido lanzar una actualización que directamente va en contra de su filosofía original. Un cambio de estrategia que ha generado muchísimas críticas y muestra lo difícil…",
+      "url": "https://www.xataka.com/criptomonedas/ledger-era-gran-referencia-para-guardar-bitcoin-ha-decepcionado-a-todos-cambio-repentino",
+      "urlToImage": "https://i.blogs.es/70f47b/ledger/840_560.jpeg",
+      "publishedAt": "2023-05-17T12:00:56Z",
+      "content": "Ledger ha perdido la confianza de los usuarios. La empresa dedicada a monederos fríos ha decidido lanzar una actualización que directamente va en contra de su filosofía original. Un cambio de estrate… [+2446 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Matthew Fox",
+      "title": "Coinbase plunges 18% after the SEC sues the crypto exchange for breaking US securities laws",
+      "description": "\"Coinbase's alleged failures deprive investors of critical protections, including rulebooks that prevent fraud and manipulation,\" Gary Gensler said.",
+      "url": "https://markets.businessinsider.com/news/stocks/coinbase-stock-price-sec-sues-crypto-exchange-breaking-securities-laws-2023-6",
+      "urlToImage": "https://i.insider.com/63c6f31d17227d00187c2759?width=1200&format=jpeg",
+      "publishedAt": "2023-06-06T13:44:17Z",
+      "content": "Coinbase announced last week that it plans to rescind job offers and freeze hiring indefinitely.Sopa Images/Getty Images\r\n<ul><li>Coinbase stock plunged 18% on Tuesday after the SEC sued the company … [+1575 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Tilman Wittenhorst",
+      "title": "Geld gewaschen und Kryptobörse Mt. Gox bestohlen – Anklage gegen zwei Russen",
+      "description": "Zwei Russen sind in den USA angeklagt, die Kryptowährungsbörse Mt. Gox gehackt, Bitcoins gestohlen und auf einer eigenen Plattform gewaschen zu haben.",
+      "url": "https://www.heise.de/news/Geld-gewaschen-und-Kryptoboerse-Mt-Gox-bestohlen-Anklage-gegen-zwei-Russen-9183609.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/5/3/4/4/2/shutterstock_1841762269-1efce39393fb55d5.jpg",
+      "publishedAt": "2023-06-10T14:40:00Z",
+      "content": "Das US-Justizministerium hat Anklage gegen zwei russische Staatsbürger erhoben wegen eines Cyberangriffs auf die Kryptowährungsbörse Mt. Gox sowie Geldwäsche von Bitcoins über eine andere, eigene Wäh… [+1963 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Axel Kannenberg",
+      "title": "Bitcoin & Co.: EU-Rat stoppt anonyme Kryptozahlungen und Steuerschlupflöcher",
+      "description": "Die EU-Staaten haben ein breites Gesetzespaket zur Regulierung von Kryptowerten final angenommen. Auch Steuervermeidung und -betrug sollen erschwert werden.",
+      "url": "https://www.heise.de/news/Bitcoin-Co-EU-Rat-stoppt-anonyme-Kryptozahlungen-und-Steuerschlupfloecher-9057677.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/8/9/6/4/4/shutterstock_709061209-930a4263b1a2f4ce.jpg",
+      "publishedAt": "2023-05-16T15:52:00Z",
+      "content": "Wer in der EU virtuelle Münzen wie Bitcoin, Ethereum oder Ripple verwendet, soll künftig unabhängig vom Transaktionswert grundsätzlich identifiziert werden können. Ein solches Aus für anonyme Zahlung… [+4341 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Siôn Geschwindt",
+      "title": "Crypto payments can now be traced like bank transfers under new EU law",
+      "description": "The EU Parliament agreed last week on the world’s first comprehensive set of rules to regulate the transfer of cryptocurrencies like Bitcoin, as it looks to crack down on money laundering and illegal transfers in the bloc. From 2024, all crypto transfers, reg…",
+      "url": "https://thenextweb.com/news/crypto-payments-can-now-be-traced-like-bank-transfers-under-new-eu-law",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2Fkanchanara-fsSGgTBoX9Y-unsplash-1.jpg&signature=318f95df47d846d6c1a3051a8aee800b",
+      "publishedAt": "2023-05-22T12:30:34Z",
+      "content": "The EU Parliament agreed last week on the worlds first comprehensive set of rules to regulate the transfer of cryptocurrencies like Bitcoin, as it looks to crack down on money laundering and illegal … [+4249 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hackaday" },
+      "author": "Dan Maloney",
+      "title": "Hackaday Podcast 219: Lots of Lasers, Heaps of Ham Radio, and Breaching the Blood Brain Barrier",
+      "description": "Elliot and Dan teamed up for the podcast this week, bringing you the week’s sweetest hacks. And news too, as the ESA performed a little percussive maintenance on a Jupiter-bound space probe, …",
+      "url": "https://hackaday.com/2023/05/19/hackaday-podcast-219-lots-of-lasers-heaps-of-ham-radio-and-breaching-the-blood-brain-barrier/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg",
+      "publishedAt": "2023-05-19T16:00:48Z",
+      "content": "Elliot and Dan teamed up for the podcast this week, bringing you the week’s sweetest hacks. And news too, as the ESA performed a little percussive maintenance on a Jupiter-bound space probe, and we l… [+934 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slashdot.org" },
+      "author": "EditorDavid",
+      "title": "Nigeria's Central Bank Explains Its 2021 Ban on Cryptocurrency Transactions at Banks",
+      "description": "In 2020 Nigeria had the third-most cryptocurrency transactions in the world (behind the U.S. and Russia). But \"Nigeria's history with crypto has been a bittersweet one where the citizens have embraced digital assets with open arms but the government remains v…",
+      "url": "https://news.slashdot.org/story/23/06/04/0348251/nigerias-central-bank-explains-its-2021-ban-on-cryptocurrency-transactions-at-banks",
+      "urlToImage": "https://a.fsdn.com/sd/topics/money_64.png",
+      "publishedAt": "2023-06-04T03:57:00Z",
+      "content": "In 2020 Nigeria had the third-most cryptocurrency transactions in the world (behind the U.S. and Russia). But \"Nigeria's history with crypto has been a bittersweet one where the citizens have embrace… [+2553 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Enrique Pérez",
+      "title": "Nostr: la nueva red social que considera a Mastodon poco descentralizada y defendida por el fundador de Twitter",
+      "description": "Ser dueños de lo que publicamos. Redes sociales resistentes a la censura. Son las promesas de las redes descentralizadas como Mastodon o Bluesky, pero incluso estas se quedan cortas respecto a lo que quieren alcanzar los creadores de Nostr, otra alternativa a…",
+      "url": "https://www.xataka.com/aplicaciones/nostr-nueva-red-social-que-considera-a-mastodon-poco-descentralizada-defendida-fundador-twitter",
+      "urlToImage": "https://i.blogs.es/d8cf4e/nostr-logo/840_560.jpeg",
+      "publishedAt": "2023-06-04T17:01:00Z",
+      "content": "Ser dueños de lo que publicamos. Redes sociales resistentes a la censura. Son las promesas de las redes descentralizadas como Mastodon o Bluesky, pero incluso estas se quedan cortas respecto a lo que… [+4235 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Phil Rosen",
+      "title": "Investors have turned away from a key part of the stock market. Here's why.",
+      "description": "Insider's Phil Rosen breaks down the latest in financial news, including why small-cap stocks have fallen out of favor in recent months.",
+      "url": "https://www.businessinsider.com/stocks-investors-small-cap-markets-finance-investing-newsletter-debt-ceiling-2023-5",
+      "urlToImage": "https://i.insider.com/64651cba0d92400018e6db6a?width=1200&format=jpeg",
+      "publishedAt": "2023-05-18T10:10:06Z",
+      "content": "Happy Friday eve, readers. Phil Rosen here it's been a busy few days in financial news with Tesla's shareholder meeting, choppy markets, and of course more debt-ceiling meetings.\r\nBut those talks in … [+4944 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Enrique Pérez",
+      "title": "Un gráfico vale más que mil palabras: el desplome de las criptomonedas en 2023 es total",
+      "description": "El boom de las cripto ha desaparecido. Si en 2022 hubo inversiones récord en este sector, el 2023 muestra un panorama totalmente distinto. Y desolador. La incertidumbre regulatoria y los problemas con empresas como FTX han destruido toda la confianza en esta …",
+      "url": "https://www.xataka.com/criptomonedas/grafico-vale-que-mil-palabras-desplome-criptomonedas-2023-total",
+      "urlToImage": "https://i.blogs.es/59a518/tweet-by-milk-road/840_560.png",
+      "publishedAt": "2023-06-05T11:31:14Z",
+      "content": "El boom de las cripto ha desaparecido. Si en 2022 hubo inversiones récord en este sector, el 2023 muestra un panorama totalmente distinto. Y desolador. La incertidumbre regulatoria y los problemas co… [+2392 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Phil Rosen",
+      "title": "US stocks climb but head for a weekly loss as investors weigh debt-ceiling talks",
+      "description": "President Joe Biden and top lawmakers have postponed a meeting on the debt ceiling until next week.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-indexes-debt-ceiling-investors-biden-finance-2023-5",
+      "urlToImage": "https://i.insider.com/5f8994639e9fe40019009b41?width=1200&format=jpeg",
+      "publishedAt": "2023-05-12T13:38:53Z",
+      "content": "Lucas Jackson/Reuters\r\n<ul>\n<li>US stocks climbed Friday, but the major indexes remain on track for a losing week.</li>\n<li>Debt-ceiling talks drag on, and investors are weighing the implications of … [+2351 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Carla Mozée",
+      "title": "US stocks decline as White House, Republicans continue to wrangle over debt ceiling deal",
+      "description": "Investors are still waiting for lawmakers to hash out a deal to avoid a US default. Meanwhile, the Nasdaq has notched a 2023 high.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-debt-ceiling-talks-apple-nasdaq-2023-5",
+      "urlToImage": "https://i.insider.com/646cb529a739dc0018090061?width=1200&format=jpeg",
+      "publishedAt": "2023-05-23T13:36:11Z",
+      "content": "A trader works on the floor of the New York Stock Exchange.Michael M. Santiago/Getty Images\r\n<ul>\n<li>US stocks fell Tuesday as debt-ceiling talks wear on in Washington, DC. </li>\n<li>House Speaker K… [+2197 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "George Glover",
+      "title": "OpenAI chief Sam Altman is close to raising $100 million for his eyeball-scanning Worldcoin crypto project, report says",
+      "description": "Worldcoin wants to launch a new cryptocurrency that people would receive in exchange of scans of their irises.",
+      "url": "https://markets.businessinsider.com/news/currencies/sam-altman-chatgpt-openai-worldcoin-crypto-startup-investing-news-analysis-2023-5",
+      "urlToImage": "https://i.insider.com/6461ee9d11971c00188f461e?width=1200&format=jpeg",
+      "publishedAt": "2023-05-15T09:08:21Z",
+      "content": "Sam Altman is set to raise $100 million for his crypto project Worldcoin, according to the Financial Times.Lucy Nicholson/Reuters\r\n<ul>\n<li>Sam Altman is close to raising $100 million for Worldcoin, … [+2112 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Phil Rosen",
+      "title": "US stocks drop as China's economy continues to weaken while the US debt ceiling deal heads for House vote",
+      "description": "May data for China showed softness in manufacturing and services activity, further dashing hopes for a speedy rebound.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-china-economy-manufacturing-debt-ceiling-vote-2023-5",
+      "urlToImage": "https://i.insider.com/64774768df2567001837d1f4?width=1200&format=jpeg",
+      "publishedAt": "2023-05-31T13:34:17Z",
+      "content": "President Joe Biden.AP Photo/Carolyn Kaster\r\n<ul>\n<li>US stocks fell Wednesday as Chinese manufacturing data showed further weakness.</li>\n<li>China's services sector also cooled off, further deflati… [+2117 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Phil Rosen",
+      "title": "US stocks climb as optimism on debt-ceiling negotiations grows",
+      "description": "House Speaker Kevin McCarthy said Tuesday that it's \"possible to get a deal by the end of the week.\"",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-indexes-debt-ceiling-optimism-biden-mccarthy-2023-5",
+      "urlToImage": "https://i.insider.com/64554a65bcb4870018c7f794?width=1200&format=jpeg",
+      "publishedAt": "2023-05-17T13:41:01Z",
+      "content": "REUTERS/Brendan McDermid\r\n<ul>\n<li>US stocks moved higher Wednesday as policymakers shared more upbeat comments on the debt-ceiling impasse.</li>\n<li>House Speaker Kevin McCarthy said Tuesday that a … [+2203 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Phil Rosen",
+      "title": "US stocks trade mixed as Biden and McCarthy are due to meet on debt-ceiling talks",
+      "description": "Lawmakers are still scrambling to avoid a national default, and JPMorgan warned Monday that stocks could see a violent re-pricing similar to 2011.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-biden-mccarthy-debt-ceiling-equities-investing-2023-5",
+      "urlToImage": "https://i.insider.com/646b68ad12a976001917bac7?width=1200&format=jpeg",
+      "publishedAt": "2023-05-22T13:34:21Z",
+      "content": "President Joe BidenAlex Wong/Getty Images\r\n<ul>\n<li>US stocks traded mixed Monday, with investors monitoring updates on the latest debt deal talks.</li>\n<li>President Joe Biden and House Speaker Kevi… [+2459 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Filip De Mott",
+      "title": "Gold jumps above stocks as Americans' preferred long-term investment while real estate plunges",
+      "description": "The share of Americans who view gold as the best long-term investment jumped to 26% this year from 15% in 2022, according to a Gallup poll.",
+      "url": "https://markets.businessinsider.com/news/commodities/best-long-term-investment-gold-vs-stocks-real-estate-gallup-2023-5",
+      "urlToImage": "https://i.insider.com/645e5473d391de0019bdb1f1?width=1200&format=jpeg",
+      "publishedAt": "2023-05-12T16:44:51Z",
+      "content": "Stocks to buy before earnings.Caspar Benson/Getty Images\r\n<ul>\n<li>Gold has jumped above stocks as Americans' preferred investment, according to a Gallup survey.</li>\n<li>The share who view gold as t… [+1903 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Zinya Salfiti",
+      "title": "Crypto is 'radioactive waste' for institutional investors until things get resolved, Shark Tank's Kevin O'Leary says",
+      "description": "Crypto is \"radioactive waste\" for institutional investors until the SEC crackdown on Binance and Coinbase is resolved, Shark Tank's Kevin O'Leary said.",
+      "url": "https://markets.businessinsider.com/news/currencies/shark-tank-kevin-oleary-crypto-radioactive-waste-binance-sec-coinbase-2023-6",
+      "urlToImage": "https://i.insider.com/6481a07e9ea8610019495bcc?width=1200&format=jpeg",
+      "publishedAt": "2023-06-08T10:06:18Z",
+      "content": "Television personality and businessman Kevin O'Leary.Reuters/Gus Ruelas\r\n<ul>\n<li>Crypto is 'radioactive waste' for institutional investors, Shark Tank's Kevin O'Leary said.</li>\n<li>Following the SE… [+2504 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Setra",
+      "title": "“Discuter” avec le créateur du Bitcoin devient possible grâce à ChatGPT",
+      "description": "Deux développeurs transforment ChatGPT pour que l’IA imite le créateur du Bitcoin.",
+      "url": "https://www.presse-citron.net/discuter-avec-le-createur-du-bitcoin-devient-possible-grace-a-chatgpt/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2021/04/Bitcoin-BTC.jpg",
+      "publishedAt": "2023-06-02T13:45:14Z",
+      "content": "<ul><li>Satoshi Nakamoto, le créateur du Bitcoin, ne révèlera probablement son identité</li><li>Mais vous pouvez discuter avec un chatbot qui imite Nakamoto</li><li>Ce chatbot est basé sur ChatGPT et… [+3530 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Jonathan Yerushalmy and Alex Hern",
+      "title": "SEC crypto crackdown: US regulator sues Binance and Coinbase",
+      "description": "Securities and Exchange Commission is targeting cryptocurrency firms it thinks are bypassing regulationOn Monday, after months of discussions, threats and warnings, the US Securities and Exchange Commission (SEC) took aim at the most powerful force in the wor…",
+      "url": "https://www.theguardian.com/technology/2023/jun/06/sec-crypto-crackdown-us-regulator-sues-binance-and-coinbase",
+      "urlToImage": "https://i.guim.co.uk/img/media/ebe80fac7d7e584402db90cb5f15b60b99c84a4b/0_228_5603_3362/master/5603.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a077b52c59960d03a42fc75e2f6cbf46",
+      "publishedAt": "2023-06-06T17:23:09Z",
+      "content": "On Monday, after months of discussions, threats and warnings, the US Securities and Exchange Commission (SEC) took aim at the most powerful force in the world of cryptocurrencies.\r\nThe US financial w… [+7243 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "John Gruber",
+      "title": "Among the Companies With the Worst Reputations in America: Twitter, Facebook, and TikTok",
+      "description": null,
+      "url": "https://www.axios.com/2023/05/23/corporate-brands-reputation-america",
+      "urlToImage": null,
+      "publishedAt": "2023-06-03T20:37:49Z",
+      "content": "Axios:\n\n\n This survey is the result of a partnership between Axios and\nHarris Poll to gauge the reputation of the most visible brands in\nAmerica, based on 20 years of Harris Poll research.\r\n\n\n\nI’m no… [+693 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Genbeta.com" },
+      "author": "Bárbara Bécares",
+      "title": "Durante años, Elon Musk jugó con el precio de Dogecoin. Unos inversores lo demandan por perder grandes cantidades de dinero",
+      "description": "Elon Musk lleva años jugando con el valor de las criptomonedas, sobre todo con Dogecoin, la moneda que surgió de un meme. La última vez fue el pasado mes de abril cuando el ahora líder de Twitter puso a shiba inu como logo de esta red social y Dogecoin creció…",
+      "url": "https://www.genbeta.com/actualidad/durante-anos-elon-musk-jugo-precio-dogecoin-unos-inversores-demandan-perder-grandes-cantidades-dinero",
+      "urlToImage": "https://i.blogs.es/c31ead/1366_2000-6-2-/840_560.jpeg",
+      "publishedAt": "2023-06-05T08:04:23Z",
+      "content": "Elon Musk lleva años jugando con el valor de las criptomonedas, sobre todo con Dogecoin, la moneda que surgió de un meme. La última vez fue el pasado mes de abril cuando el ahora líder de Twitterpuso… [+2515 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Everstrike.io" },
+      "author": "Andreas Krom",
+      "title": "How An Obscure OTC-Traded Derivative From The 80s Took Over Crypto",
+      "description": "This is the story of the perpetual future - a financial derivative that went from being an obscure OTC-traded derivative that nobody cared about - to being the largest and most successful derivative in the crypto space, trading more than $18T annually.\n\n\nThe …",
+      "url": "https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/",
+      "urlToImage": "https://blog.everstrike.io/content/images/2023/05/Screenshot-from-2023-05-05-23-56-21-2.png",
+      "publishedAt": "2023-05-13T20:46:15Z",
+      "content": "This is the story of the perpetual future - a financial derivative that went from being an obscure OTC-traded derivative that nobody cared about - to being the largest and most successful derivative … [+9349 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "PA Media",
+      "title": "Fraudster jailed for running multimillion-pound website iSpoof",
+      "description": "Tejay Fletcher’s site offered tools allowing criminals to make phone calls that appeared to be from trusted companiesThe mastermind behind an online fraud shop used to con victims out of more than £100m has been jailed for more than 13 years.Tejay Fletcher, 3…",
+      "url": "https://www.theguardian.com/uk-news/2023/may/19/fraudster-tejay-fletcher-jailed-for-multimillion-pound-website-ispoof",
+      "urlToImage": "https://i.guim.co.uk/img/media/7050c4ec5e94a66fb6d7473bcbc764e62ec1594c/0_109_394_236/master/394.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cac06573e3443b63c32b9533145d4bb2",
+      "publishedAt": "2023-05-19T12:28:15Z",
+      "content": "The mastermind behind an online fraud shop used to con victims out of more than £100m has been jailed for more than 13 years.\r\nTejay Fletcher, 35, bought a £230,000 Lamborghini, two Range Rovers wort… [+3300 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Bryan Avelar and Tom Phillips",
+      "title": "At least 153 died in custody in El Salvador’s gang crackdown – report",
+      "description": "Human rights group’s 107-page report details human cost of President Nayib Bukele’s controversial ‘war on gangs’The human cost of El Salvador’s controversial “war on gangs” has been laid bare in a new report which claims dozens of prisoners were tortured and …",
+      "url": "https://www.theguardian.com/world/2023/may/29/el-salvador-security-gangs-crackdown-cristosal-report-bukele",
+      "urlToImage": "https://i.guim.co.uk/img/media/1831463d0f154aa64f0e03fedac3aeb8404d642b/0_418_6487_3894/master/6487.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fb1fc109862518771543b70e9270913",
+      "publishedAt": "2023-05-29T19:17:02Z",
+      "content": "The human cost of El Salvadors controversial war on gangs has been laid bare in a new report which claims dozens of prisoners were tortured and killed in jail after being caught up in the year-long s… [+3537 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Marie-Claire Koch",
+      "title": "Britischer Finanzausschuss: Handel mit Kryptowährung als Glücksspiel regulieren",
+      "description": "Der britische Finanzausschuss fordert die Regierung auf, den Handel mit Kryptowährungen zu regulieren, da digitale Währungen keinen inneren Wert hätten.",
+      "url": "https://www.heise.de/news/Britischer-Finanzausschuss-Handel-mit-Kryptowaehrung-als-Gluecksspiel-regulieren-9059216.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/9/0/4/7/3/shutterstock_2155067343-cbab8f25fc8775f2.jpg",
+      "publishedAt": "2023-05-18T10:29:00Z",
+      "content": "Der britische Finanzausschuss hat die Regierung aufgefordert, den Handel mit Kryptowährung zu regulieren. Der Finanzausschuss begründet seine Forderung damit, dass digitale Währungen wie Bitcoin und … [+2147 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Frances Yue",
+      "title": "Crypto: Bitcoin drops after SEC files 13 charges against Binance, founder Changpeng Zhao",
+      "description": "Major cryptocurrencies sank on Monday, after the Securities and Exchange Commission charged the world's largest crypto exchange, Binance Holdings Inc., and its founder Changpeng Zhao with 13 securities law violations.",
+      "url": "https://www.marketwatch.com/story/bitcoin-drops-after-sec-files-13-charges-against-binance-founder-changpeng-zhao-c928a4b3",
+      "urlToImage": "https://images.mktw.net/im-750627/social",
+      "publishedAt": "2023-06-05T16:42:00Z",
+      "content": "Major cryptocurrencies sank on Monday, after the U.S. Securities and Exchange Commission charged the worlds largest crypto exchange Binance Holdings Inc. and its co-founder Changpeng Zhao with 13 sec… [+837 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Economist" },
+      "author": "The Economist",
+      "title": "Regulators put the future of America’s crypto industry in doubt",
+      "description": "Firms will head to friendlier waters",
+      "url": "https://www.economist.com/finance-and-economics/2023/06/08/regulators-put-the-future-of-americas-crypto-industry-in-doubt",
+      "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230610_FND002.jpg",
+      "publishedAt": "2023-06-08T10:17:46Z",
+      "content": "Taylor Swifts record-smashing Eras tour could end up being one of the most lucrative in musical history, possibly even minting the worlds newest billionaire. But Ms Swift has another thing going for … [+3627 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hackaday" },
+      "author": "Jonathan Bennett",
+      "title": "Books You Should Read: Red Team Blues",
+      "description": "Martin Hench really likes playing on the Red team — on the attack. He’s a financial geek, understands cryptocurrency, understands how money is moved around to keep it hidden, and is really go…",
+      "url": "https://hackaday.com/2023/06/01/books-you-should-read-red-team-blues/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2023/06/IMG_20230528_231228_featured.png",
+      "publishedAt": "2023-06-01T17:00:38Z",
+      "content": "Martin Hench really likes playing on the Red team — on the attack. Hes a financial geek, understands cryptocurrency, understands how money is moved around to keep it hidden, and is really good at min… [+1969 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Setra",
+      "title": "Que vient faire le Bitcoin à la présidentielle américaine ?",
+      "description": "Des Américains pourraient voter en fonction de la position des candidats par rapport aux cryptomonnaies, selon un sondage réalisé sur Twitter.",
+      "url": "https://www.presse-citron.net/que-vient-faire-le-bitcoin-a-la-presidentielle-americaine/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2021/10/Bitcoin-1.jpg",
+      "publishedAt": "2023-05-30T17:00:32Z",
+      "content": "<ul><li>Un entrepreneur lance un sondage sur Twitter</li><li>Il demande si les électeurs tiendront compte de la position des candidats par rapport au Bitcoin</li><li>En tout cas, comme dans lUnion eu… [+2881 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Microsiervos.com" },
+      "author": "alvy@microsiervos.com (Alvy)",
+      "title": "El reloj de la cadena de bloques de Bitcoin y un montón de datos interesantes",
+      "description": "Condensando un montón de información en algo parecido a la esfera de un reloj, Timechain Calendar muestra datos en tiempo real sobre la cadena de bloques de bitcoin. Pero además de eso también permite revisar todo lo que sucedió en el pasado –desde el 3 de en…",
+      "url": "https://www.microsiervos.com/archivo/economia/reloj-cadena-bloques-bitcoin-datos-interesantes.html",
+      "urlToImage": "https://img.microsiervos.com/images2023/TimeChain.jpg",
+      "publishedAt": "2023-05-13T14:54:22Z",
+      "content": "Por @Alvy 13 de Mayo de 2023\r\nCondensando un montón de información en algo parecido a la esfera de un reloj, Timechain Calendar muestra datos en tiempo real sobre la cadena de bloques de bitcoin. Per… [+2295 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Andrew Tarantola",
+      "title": "Hitting the Books: The abrupt and ignoble downfall of Sam Bankman-Fried",
+      "description": "Seemingly overnight, Sam Bankman-Fried, the founder of FTX, went from cryptocurrency wunderkind to wanted for questioning by the FBI. After years of unfettered success, the walls of SBF's blockchain empire came crumbling down around him as his tricky financia…",
+      "url": "https://www.engadget.com/hitting-the-books-sbf-brady-dale-wiley-ftx-143033761.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/4w1s9qSQRiYCwgQ0HYPkIA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/18b95d70-eb6c-11ed-a7fd-09985728dc43.cf.jpg",
+      "publishedAt": "2023-05-14T14:30:33Z",
+      "content": "Seemingly overnight, Sam Bankman-Fried, the founder of FTX, went from cryptocurrency wunderkind to wanted for questioning by the FBI. After years of unfettered success, the walls of SBF's blockchain … [+12543 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Carla Mozée",
+      "title": "US stocks trade mixed as investors assess progress on debt ceiling talks",
+      "description": "Treasury Secretary Janet Yellen said she sees progress being made in deliberations about raising the debt ceiling.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-dow-nasdaq-debt-ceiling-limit-talks-sp500-2023-5",
+      "urlToImage": "https://i.insider.com/646225865cd814001883d088?width=1200&format=jpeg",
+      "publishedAt": "2023-05-15T13:42:16Z",
+      "content": "An American flag hangs behind traders working on the floor of the New York Stock Exchange.Drew Angerer/Getty Images\r\n<ul>\n<li>US stocks were mixed on Monday as traders digested the latest debt ceilin… [+3215 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Matthew Fox",
+      "title": "US stocks fall as debt ceiling debate drags on and minutes show Fed split on more rate hikes",
+      "description": "Treasury Secretary Janet Yellen reiterated to Congress that the US government could run out of money to pay its bills by as early as June 1.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-fed-minutes-split-more-interest-rate-hikes-2023-5",
+      "urlToImage": "https://i.insider.com/5f6899d2323fc4001e0d7626?width=1200&format=jpeg",
+      "publishedAt": "2023-05-24T20:03:35Z",
+      "content": "Lucas Jackson/Reuters\r\n<ul><li>US stocks fell on Wednesday as investors weighed a split among Fed members against a split among lawmakers</li><li>Minutes from the Fed showed Fed members are split on … [+3067 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Matthew Fox",
+      "title": "US stocks trade mixed after debt ceiling deal and ongoing AI frenzy",
+      "description": "The debt ceiling deal would raise the debt ceiling until January 2025 and includes various spending cuts and deficit reduction measures.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-debt-ceiling-deal-artificial-intelligence-nvidia-2023-5",
+      "urlToImage": "https://i.insider.com/6475f585085acb0018fedc31?width=1200&format=jpeg",
+      "publishedAt": "2023-05-30T13:37:16Z",
+      "content": "Reuters / Brendan McDermid\r\n<ul><li>US stocks were mixed on Tuesday after a debt ceiling deal was reached in Congress before the upcoming deadline.</li><li>The deal still needs to be voted on in the … [+2681 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Carla Mozée",
+      "title": "US stocks rise as White House and Republican lawmakers near deal to raise the debt ceiling",
+      "description": "Stocks may notch gains ahead of the Memorial Day holiday as lawmakers appear to be nearing a deal to lift the $31 trillion debt ceiling.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-dow-debt-ceiling-talks-deal-nasdaq-sp500-2023-5",
+      "urlToImage": "https://i.insider.com/64709f933be3b50019f6f3de?width=1200&format=jpeg",
+      "publishedAt": "2023-05-26T13:37:50Z",
+      "content": "Traders work the floor of the New York Stock Exchange in New York City.TIMOTHY A. CLARY/AFP via Getty Images\r\n<ul>\n<li>US stocks rose Friday following reports lawmakers are nearing a deal to raise th… [+3197 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Carla Mozée",
+      "title": "Dow jumps more than 300 points as Biden, McCarthy appear set to reach a deal to raise the US debt limit",
+      "description": "The Dow snapped a losing streak as investors headed into Memorial Day anticipating Washington will reach a deal to raise the debt ceiling.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-debt-ceiling-deal-talks-dow-nasdaq-biden-2023-5",
+      "urlToImage": "https://i.insider.com/646225865cd814001883d088?width=1200&format=jpeg",
+      "publishedAt": "2023-05-26T20:06:18Z",
+      "content": "House Speaker Kevin McCarthy and President Joe Biden met in the Oval Office on May 9.Anna Moneymaker/Getty Images\r\n<ul>\n<li>US stocks jumped Friday on reports the White House and Republican leadershi… [+3508 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Morgan Chittum",
+      "title": "US stocks trade mixed as investors cheer Nvidia earnings and assess debt ceiling talks",
+      "description": "The Nasdaq Composite surged after Nvidia posted stellar quarterly results and gave investors even more to hope for with strong guidance.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-nvidia-earnings-debt-ceiling-talks-tech-rally-2023-5",
+      "urlToImage": "https://i.insider.com/634992172f7a5a00185286f9?width=1200&format=jpeg",
+      "publishedAt": "2023-05-25T20:09:17Z",
+      "content": "Traders work on the New York Stock Exchange floor in New York City.AP Photo/Ted Shaffrey\r\n<ul>\n<li>\nThe Nasdaq led soared on Thursday on AI hype generated by Nvidia's big earnings report. \r\n\n</li>\n<l… [+2632 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Jennifer Sor",
+      "title": "US stocks fall to end the week with a loss as traders assess debt ceiling outlook",
+      "description": "Major US indexes ended lower on Friday, with the S&P 500 notching its second-straight losing week. US default fears grew this week amid stalled talks.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-us-debt-ceiling-default-recession-fears-2023-5",
+      "urlToImage": "https://i.insider.com/5e970175b3b092567c2cf358?width=1200&format=jpeg",
+      "publishedAt": "2023-05-12T20:04:06Z",
+      "content": "Brendan McDermid/Reuters\r\n<ul>\n<li>US stocks slid on Friday as traders assessed the outlook on the debt ceiling crisis and recession odds. </li>\n<li>All three indexes ended lower, with the S&P 500 no… [+2747 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Carla Mozée",
+      "title": "US stocks slide as Washington lacks movement on reaching a debt-ceiling agreement",
+      "description": "Investors were anxious Tuesday with no word on a debt-ceiling deal. \"It's a slow walk,\" Rep. Patrick McHenry said, according to Roll Call.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-nasdaq-dow-debt-ceiling-talks-sp500-2023-5",
+      "urlToImage": "https://i.insider.com/6113ca37ad63f30019501f8b?width=1200&format=jpeg",
+      "publishedAt": "2023-05-23T20:06:56Z",
+      "content": "Brendan McDermid/Reuters\r\n<ul>\n<li>US stocks fell Tuesday as debt-ceiling talks appeared to stall. </li>\n<li>\"It's a slow walk,\" Rep. Patrick McHenry said, according to Roll Call. </li>\n<li>The Treas… [+2790 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Matthew Fox",
+      "title": "US stocks fall ahead of renewed debt ceiling talks in Washington",
+      "description": "Treasury Secretary Janet Yellen warned that \"time is running out\" and that the debt ceiling showdown is already impacting Americans.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-renewed-debt-ceiling-talks-biden-mccarthy-2023-5",
+      "urlToImage": "https://i.insider.com/6463811c3c46f3001898e0e3?width=1200&format=jpeg",
+      "publishedAt": "2023-05-16T13:40:31Z",
+      "content": "U.S. President Joe Biden and Speaker of the House Kevin McCarthy (R-CA) depart the U.S. Capitol following the Friends of Ireland Luncheon on Saint Patrick's Day March 17, 2023 in Washington, DC. The … [+2917 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Morgan Chittum",
+      "title": "US stocks jump as Nvidia leads tech rally and investors wait on debt ceiling progress",
+      "description": "Nvidia's huge quarterly earnings report led the Nasdaq higher, as investors pile into one of the clear leaders in the early days of the AI gold rush.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-nasdaq-composite-nvidia-price-tech-sector-rally-2023-5",
+      "urlToImage": "https://i.insider.com/63ab3e2147bbe40019837632?width=1200&format=jpeg",
+      "publishedAt": "2023-05-25T13:43:59Z",
+      "content": "Traders work on the floor of the New York Stock Exchange (NYSE) on October 27, 2022 in New York City.Spencer Platt/Getty Images\r\n<ul>\n<li>US stocks were mostly higher Thursday as Nvidia led a strong … [+3271 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Carla Mozée",
+      "title": "US stocks edge higher as investors await updates on debt ceiling negotiations",
+      "description": "The S&P 500 finished higher after two sessions in the red and after weekly back-to-back losses. Traders were waiting for debt ceiling talks to resume.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-dow-nasdaq-debt-ceiling-talks-banks-sp500-2023-5",
+      "urlToImage": "https://i.insider.com/5e8b238892e8ba33b0350f73?width=1200&format=jpeg",
+      "publishedAt": "2023-05-15T20:08:50Z",
+      "content": "Lucas Jackson/Reuters\r\n<ul>\n<li>US stocks ended higher Monday, retracing early losses to end in the green. </li>\n<li>The S&P 500 rose with help from the financial sector as regional banks gained. </l… [+3568 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Max Adams",
+      "title": "Dow jumps 700 points as US stocks soar on end to the debt ceiling fight and strong May jobs report",
+      "description": "Markets cheered the end of the debt ceiling showdown as the Senate sent the bill to raise the US borrowing limit to President Biden's desk.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-dow-debt-ceiling-may-jobs-report-2023-6",
+      "urlToImage": "https://i.insider.com/647a41ec40bf000019fa1514?width=1200&format=jpeg",
+      "publishedAt": "2023-06-02T20:07:09Z",
+      "content": "Traders work during the opening bell at the New York Stock Exchange (NYSE) on March 13, 2020 at Wall Street in New York City.Johannes Eisele/AFP/Getty Images\r\n<ul>\n<li>The Dow soared 700 points to en… [+2999 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Techmeme.com" },
+      "author": null,
+      "title": "Tether says it will invest up to 15% of its profits in bitcoin, as the company shifts its reserves towards crypto and away from US government debt (Yogita Khatri/The Block)",
+      "description": "Yogita Khatri / The Block:\nTether says it will invest up to 15% of its profits in bitcoin, as the company shifts its reserves towards crypto and away from US government debt  —  - Tether is set to purchase bitcoin on a regular basis from its profits.  — It he…",
+      "url": "https://www.techmeme.com/230517/p23",
+      "urlToImage": "https://www.tbstat.com/wp/uploads/2020/09/20200914_Tether-1200x675.jpg",
+      "publishedAt": "2023-05-17T16:45:01Z",
+      "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 12:50 PM ET, May 17, 2023.\r\nThe most current version of the site as always is available at our home page.\r\nTo view… [+67 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Faz.net" },
+      "author": "Alexander Wulfers",
+      "title": "Aufruf an Spender: Warum die Hamas keine Bitcoins mehr will",
+      "description": "Kryptowährungen wie Bitcoin versprechen Anonymität. Daran glauben inzwischen auch Terrororganisationen nicht mehr.",
+      "url": "https://www.faz.net/aktuell/finanzen/aufruf-an-spender-warum-die-hamas-keine-bitcoins-mehr-will-18872081.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/1760109441/1.8872554/facebook_teaser/die-kassam-brigaden-sind-der.jpg",
+      "publishedAt": "2023-05-13T12:19:50Z",
+      "content": "Fans von Kryptowährungen wie Bitcoin schätzen an ihnen vor allem das Versprechen von Anonymität und die Unabhängigkeit von Banken und staatlichen Institutionen. Kritiker sehen sie gerade deshalb scho… [+1408 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Ritholtz.com" },
+      "author": "Barry Ritholtz",
+      "title": "10 Tuesday AM Reads",
+      "description": "My Two-for-Tuesday morning train WFH reads: • Miami’s Love Affair With Crypto Is Souring as Bitcoin Faithful Flock to the City: On the eve of the annual bitcoin conference, the city and its mayor have mostly moved on from crypto. (Wall Street Journal) but see…",
+      "url": "https://ritholtz.com/2023/05/10-tuesday-am-reads-427/",
+      "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/04/expneighborhood.jpeg",
+      "publishedAt": "2023-05-16T10:30:18Z",
+      "content": "Miamis Love Affair With Crypto Is Souring as Bitcoin Faithful Flock to the City: On the eve of the annual bitcoin conference, the city and its mayor have mostly moved on from crypto. (Wall Street Jou… [+4103 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Thomas Germain",
+      "title": "Jack Dorsey's Bluesky Is Trying to Save the Internet. It Wants Your Feedback, Please.",
+      "description": "In 2022, Twitter co-founder Jack Dorsey left the company. One of his new projects, Bluesky, is a social media app that looks exactly like Twitter. The difference? Bluesky promises an unprecedented level of control over your scrolling experience. The goal, ess…",
+      "url": "https://gizmodo.com/bluesky-invite-jack-dorsey-twitter-coding-livestream-1850451102",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d804145700e526950a58d9252e3f640e.jpg",
+      "publishedAt": "2023-05-20T13:00:00Z",
+      "content": "In 2022, Twitter co-founder Jack Dorsey left the company. One of his new projects, Bluesky, is a social media app that looks exactly like Twitter. The difference? Bluesky promises an unprecedented le… [+9570 chars]"
+    },
+    {
+      "source": { "id": "die-zeit", "name": "Die Zeit" },
+      "author": "ZEIT ONLINE: News -",
+      "title": "Sassnitz: Rentner auf Rügen verliert viel Geld durch Bitcoin-Trick",
+      "description": "",
+      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fnews%2F2023-06%2F07%2Frentner-auf-ruegen-verliert-viel-geld-durch-bitcoin-trick",
+      "urlToImage": null,
+      "publishedAt": "2023-06-07T12:50:02Z",
+      "content": "When browsing with ads:\r\nWe collect personal data and also transmit it to third-party providers\r\n that help us improve and finance our digital content. Some of the information stored on your device, … [+821 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Tessa Campbell",
+      "title": "What is digital currency, and how does it work?",
+      "description": "Cryptocurrencies, central bank digital currencies (CBDCs), and stablecoins are types of digital currencies that are increasing in popularity. Here's how they work.",
+      "url": "https://www.businessinsider.com/personal-finance/what-is-digital-currency",
+      "urlToImage": "https://i.insider.com/646fa4f2dcf4b30018881406?width=1200&format=jpeg",
+      "publishedAt": "2023-05-26T14:59:26Z",
+      "content": "Our experts choose the best products and services to help make smart decisions with your money (here's how). In some cases, we receive a commission from our partners; however, our opinions are our ow… [+15728 chars]"
+    }
+  ]
+}
